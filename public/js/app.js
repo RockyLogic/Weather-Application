@@ -1,4 +1,3 @@
-console.log("App.js Loaded");
 
 const weatherForm = document.querySelector("form")
 const search = document.querySelector("input")
